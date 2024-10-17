@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello Chandan Tiwari!
+          Hello Samarth Dadhaniya
         </a>
       </header>
     </div>
